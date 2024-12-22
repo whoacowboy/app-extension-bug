@@ -12,5 +12,3 @@ Compatible with Quasar UI v2 and Vue 3.
 # Donate
 If you appreciate the work that went into this project, please consider [donating to Quasar](https://donate.quasar.dev).
 
-# License
-MIT (c) James Butler <james@whoacowboy.com>
