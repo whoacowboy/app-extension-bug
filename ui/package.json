@@ -1,7 +1,7 @@
 {
   "name": "quasar-ui-delete-1",
   "version": "0.0.1",
-  "author": "James Butler <james@whoacowboy.com>",
+  "author": "James <james@example.com>",
   "description": "My awesome component",
   "license": "MIT",
   "module": "dist/index.esm.js",
