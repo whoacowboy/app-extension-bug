@@ -2,7 +2,7 @@
   "name": "quasar-app-extension-delete-1",
   "version": "0.0.1",
   "description": "A Quasar App Extension",
-  "author": "James Butler <james@whoacowboy.com>",
+  "author": "James <james@example.com>",
   "license": "MIT",
   "type": "module",
   "dependencies": {
